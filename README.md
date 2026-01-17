@@ -24,6 +24,12 @@ This repository contains two distinct levels of NLP analysis to showcase technic
 
 ---
 
+## 📸 Example Output
+
+![Terminal Output](images/terminal_output_screenshot.png)
+
+---
+
 ## 🛠️ Tech Stack
 * **Language:** Python 3.9+
 * **NLP Frameworks:** `vaderSentiment`, `TextBlob`
